@@ -1,3 +1,4 @@
+# 與AI助手Gemini攜手打造的WinVista音樂播放器
 # 🎵 JayPlayer-Retro (電腦老兵播放器[周杰倫] - 終極開源大團圓套裝)
 
 一個專為舊時代小筆電（Netbook: TOSHIBA NB550）、舊操作系統 (Window Vista) 打造的**純黑底灰字 KTV 風格螢幕保護音樂播放器**。
